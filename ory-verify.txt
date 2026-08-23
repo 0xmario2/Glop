@@ -1,1 +1,1 @@
-ory-verify=orynth-gloplabsxyz 99bedd244c02409aae79beda20d14f66
+ory-verify=orynth-gloplabsxyz-99bedd244c02409aae79beda20d14f66
